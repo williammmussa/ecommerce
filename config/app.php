@@ -69,8 +69,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
-
+    'timezone' => 'Africa/Dar_es_Salaam',
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
@@ -83,6 +82,7 @@ return [
     */
 
     'locale' => 'en',
+    'currency' => 'USD',
 
     /*
     |--------------------------------------------------------------------------
